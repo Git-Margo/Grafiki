@@ -1,0 +1,3 @@
+# Grafiki
+
+Repozytorium zawiera zarchiwizowane grafiki pochodzące z różnych okresów czasowych z gry [Margonem MMORPG](https://margonem.pl/), stanowiące własność intelektualną podmiotu `Garmory spółka z ograniczoną odpowiedzialnością spółka komandytowa` (KRS: 0000519387, NIP: 5482581184, REGON: 241114139). Autor zarządzający repozytorium nie ponosi odpowiedzialności za jakiekolwiek roszczenia, szkody, straty lub inne konsekwencje wynikające z użycia, modyfikacji lub rozpowszechniania tych materiałów. Wszelkie prawa do grafik należą do ich właściciela i korzystanie z nich może wymagać odpowiednich zezwoleń.
